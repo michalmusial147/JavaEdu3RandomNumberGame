@@ -31,7 +31,7 @@ public class Main {
                 else
                     break;
             }
-
+            shoot_counter = shoot_counter + 1;
         }
     }
 }
